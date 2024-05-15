@@ -13,7 +13,7 @@
 
 :root {
     --bg-color: #000000;
-    --snd-bg-color: #050505;
+    --snd-bg-color: rgb(24, 24, 24);
     --text-color: white;
     --main-color: #FFFF00;
     --text-titulo: rgb(247, 2, 2);
@@ -41,7 +41,7 @@ section{
     left: 0;
     width: 85%;
     padding: 2rem 9%;
-    background: var(--bg-color);
+    background: rgb(24, 24, 24);
     display: flex;
     justify-content: space-between;
     align-items: center;
