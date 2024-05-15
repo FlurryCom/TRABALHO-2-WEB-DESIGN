@@ -61,6 +61,7 @@ section{
     color: var(--text-color);
     margin-left: 4rem;
     font-weight: 700;
+    padding: 20px;
 }
 
 .navbar a:hover,
