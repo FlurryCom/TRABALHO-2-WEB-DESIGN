@@ -64,9 +64,8 @@ section{
     padding: 20px;
 }
 
-.navbar a:hover,
-.navbar a.active{
-    color: var(--text-color);
+.navbar a:hover{
+    color:#FFFF00;
 }
 
 #menu-icon{
